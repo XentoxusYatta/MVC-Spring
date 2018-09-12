@@ -1,10 +1,10 @@
 <html>
 <head>
-<title>Spring MVC Tutorial by Crunchify - Hello World Spring MVC
+<title>Spring MVC Tutorial by Yatta Solutions - Hello World Spring MVC
 	Example</title>
 <style type="text/css">
 body {
-	background-image: url('https://cdn.crunchify.com/bg.png');
+	background-image: url('https://www.ittage.informatik-aktuell.de/fileadmin/_processed_/e/1/csm_Yatta_Logo_IT-Tage_810x480_8ba14d7fd4.png');
 }
 </style>
 </head>
@@ -13,13 +13,13 @@ body {
 	<br>
 	<br>
 	<div
-		style="font-family: verdana; padding: 10px; border-radius: 10px; font-size: 12px; text-align: center;">
+		style="font-family: TimesNewRoman; padding: 110px; border-radius: 10px; font-size: 30px; text-align: center;">
  
-		Spring MCV Tutorial by <a href="https://crunchify.com">Crunchify</a>.
-		Click <a href="https://crunchify.com/category/java-tutorials/"
-			target="_blank">here</a> for all Java and <a
-			href='https://crunchify.com/category/spring-mvc/' target='_blank'>here</a>
-		for all Spring MVC, Web Development examples.<br>
+		Spring MCV Tutorial by <a href="https://www.yatta.de/de/start/">Yatta Solutions</a>.
+		Click <a href="https://java.com/de/download/"
+			target="_blank">here</a> for Java Download and <a
+			href='https://www.yatta.de/profiles/hub?1' target='_blank'>here</a>
+		to get nice Profiles for Eclipse.<br>
 	</div>
 </body>
 </html>
